@@ -1,0 +1,12 @@
+div{
+  display: inline-block; /* inline: tudo na mesmo linha */
+  background-color: aliceblue;
+  border: 1px solid black;
+  height: 240px;
+  width: 260px;
+}
+
+/* Hover: serve para quando passar o mouse em cima */
+  div:hover{
+    background-color: black;
+  }

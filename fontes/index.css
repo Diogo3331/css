@@ -1,0 +1,13 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+  text-align: center;
+}
+
+P{
+  text-align: justify; /*o texto se alinha com qualquer responsividade*/
+
+  text-indent: 30px; /* Serve para dar um espaço(margem) no começo do texto */
+}
